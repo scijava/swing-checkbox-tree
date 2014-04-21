@@ -10,7 +10,7 @@
 	</parent>
 
 	<artifactId>swing-checkbox-tree</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.1-SNAPSHOT</version>
 
 	<name>Swing Check Box Tree</name>
 	<description>A set of components for use with Swing JTrees that provide support for JCheckBox nodes.</description>
