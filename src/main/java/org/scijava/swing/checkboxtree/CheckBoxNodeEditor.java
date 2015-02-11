@@ -2,7 +2,7 @@
  * #%L
  * Swing JTree check box nodes.
  * %%
- * Copyright (C) 2012 - 2014 Board of Regents of the University of
+ * Copyright (C) 2012 - 2015 Board of Regents of the University of
  * Wisconsin-Madison.
  * %%
  * Redistribution and use in source and binary forms, with or without
