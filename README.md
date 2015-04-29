@@ -1,3 +1,5 @@
+![](http://jenkins.imagej.net/job/swing-checkbox-tree/lastBuild/badge/icon)
+
 # Swing Checkbox Tree
 
 A check box tree package based on John Zukowski's [CheckBox Node Tree
