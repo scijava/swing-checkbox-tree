@@ -1,4 +1,4 @@
-![](http://jenkins.imagej.net/job/swing-checkbox-tree/lastBuild/badge/icon)
+[![](http://jenkins.imagej.net/job/swing-checkbox-tree/lastBuild/badge/icon)](http://jenkins.imagej.net/job/swing-checkbox-tree/)
 
 # Swing Checkbox Tree
 
