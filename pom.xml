@@ -10,7 +10,7 @@
 	</parent>
 
 	<artifactId>swing-checkbox-tree</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
 
 	<name>Swing Check Box Tree</name>
 	<description>A set of components for use with Swing JTrees that provide support for JCheckBox nodes.</description>
@@ -67,7 +67,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/scijava/swing-checkbox-tree</connection>
 		<developerConnection>scm:git:git@github.com:scijava/swing-checkbox-tree</developerConnection>
-		<tag>HEAD</tag>
+		<tag>swing-checkbox-tree-1.0.1</tag>
 		<url>https://github.com/scijava/swing-checkbox-tree</url>
 	</scm>
 	<issueManagement>
