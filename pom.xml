@@ -16,7 +16,6 @@
 	<description>A set of components for use with Swing JTrees that provide support for JCheckBox nodes.</description>
 	<url>http://scijava.org/</url>
 	<inceptionYear>2012</inceptionYear>
-
 	<licenses>
 		<license>
 			<name>Simplified BSD License</name>
@@ -39,7 +38,6 @@
 			<timezone>-6</timezone>
 		</developer>
 	</developers>
-
 	<contributors>
 		<contributor><name>John Zukowski</name></contributor>
 	</contributors>
@@ -60,12 +58,10 @@
 		<tag>HEAD</tag>
 		<url>https://github.com/scijava/swing-checkbox-tree</url>
 	</scm>
-
 	<issueManagement>
 		<system>GitHub Issues</system>
 		<url>https://github.com/scijava/swing-checkbox-tree/issues</url>
 	</issueManagement>
-
 	<ciManagement>
 		<system>Jenkins</system>
 		<url>http://jenkins.imagej.net/job/swing-checkbox-tree/</url>
@@ -95,5 +91,4 @@ Wisconsin-Madison.</organizationName>
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
