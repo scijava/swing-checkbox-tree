@@ -1,3 +1,4 @@
+[![](https://img.shields.io/maven-central/v/org.scijava/swing-checkbox-tree.svg)](http://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22org.scijava%22%20AND%20a%3A%22swing-checkbox-tree%22)
 [![](http://jenkins.imagej.net/job/swing-checkbox-tree/lastBuild/badge/icon)](http://jenkins.imagej.net/job/swing-checkbox-tree/)
 
 # Swing Checkbox Tree
