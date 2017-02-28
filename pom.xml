@@ -54,8 +54,8 @@
 		<url>https://github.com/scijava/swing-checkbox-tree/issues</url>
 	</issueManagement>
 	<ciManagement>
-		<system>Jenkins</system>
-		<url>http://jenkins.imagej.net/job/swing-checkbox-tree/</url>
+		<system>Travis CI</system>
+		<url>https://travis-ci.org/scijava/swing-checkbox-tree</url>
 	</ciManagement>
 
 	<build>
