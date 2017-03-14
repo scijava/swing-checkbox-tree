@@ -14,7 +14,7 @@
 
 	<name>Swing Check Box Tree</name>
 	<description>A set of components for use with Swing JTrees that provide support for JCheckBox nodes.</description>
-	<url>http://scijava.org/</url>
+	<url>https://github.com/scijava/swing-checkbox-tree</url>
 	<inceptionYear>2012</inceptionYear>
 	<organization>
 		<name>SciJava</name>
